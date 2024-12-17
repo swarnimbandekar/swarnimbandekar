@@ -1,6 +1,9 @@
 # 💫 About Me:
 🔭 I’m currently studying at VIT-AP University<br>👯 I’m looking to collaborate on Bug Bountys<br>🌱 I’m currently developing my skills<br>💬 Ask me about Pentesting / Bug Bounty<br>⚡ Bug hunter with a coding obsession!
 
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@swarnimbandekar/30-nites-of-code)  
+  ![@swarnimbandekar #30NitesOfCode](https://www.codedex.io/api/petStatus?user=swarnimbandekar)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/846705138118295582) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/swarnimbandekar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/swarnimbandekar) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@swarnimbandekar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/swarnimsb) 
