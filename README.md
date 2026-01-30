@@ -86,7 +86,7 @@ I'm **[`Swarnim`](https://www.linkedin.com/in/swarnimbandekar)**, a cybersecurit
 
 
 <h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
-<img align="right" width="30%" src="https://github.com/user-attachments/assets/455b5f94-a7e4-4959-994c-e29c90ae47e8"/>
+<img align="right" width="40%" src="https://github.com/user-attachments/assets/455b5f94-a7e4-4959-994c-e29c90ae47e8"/>
 
 <div align="left">
   <img src="https://nirzak-streak-stats.vercel.app/?user=swarnimbandekar&theme=dracula&hide_border=false" height="200" width="467" alt="stats graph" /> <br>
