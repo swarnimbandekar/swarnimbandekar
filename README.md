@@ -38,7 +38,7 @@ I'm **[`Swarnim`](https://www.linkedin.com/in/swarnimbandekar)**, a cybersecurit
 
 <img width="20%" align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWw4YXdoM3B0YjMzcmVmNmowOGppb3RsdHlwNTRpNnA4b292MnVsMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/DqiMTFxiXx0VaVZQbF/giphy.gif">
 
-👉 Learning Bug hunting & malware forensics.
+👉 Learning Bug hunting.
 
 👉 Play CTFs when I'm bored.
 
