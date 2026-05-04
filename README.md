@@ -22,7 +22,7 @@ I'm **[`Swarnim`](https://www.linkedin.com/in/swarnimbandekar)**, a cybersecurit
 <details>
   <summary>More about me</summary>
 
-- **Name**: Swarnim Bandekar
+- **Name**: Swarnim Bandekar 
 - **From**: Bangalore (India)
 - **Bug Hunter** | **Security Researcher** 
 - i have experience in **Red Teaming**,**Web Security**,**Bug Bounty**,**Social engineering**,**Webapp Prod**
