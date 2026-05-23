@@ -47,6 +47,7 @@ I'm **[`Swarnim`](https://www.linkedin.com/in/swarnimbandekar)**, a cybersecurit
 
 ---
 
+
 <h2 id="knowledge_skills" align=''> Knowledge & Skills </h2>
 
 <br>
