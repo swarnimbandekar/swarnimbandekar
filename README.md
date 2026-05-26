@@ -16,7 +16,6 @@
 
 I'm **[`Swarnim`](https://www.linkedin.com/in/swarnimbandekar)**, a cybersecurity researcher specializing in penetration testing, bug bounty hunting, red teaming, and web security. With a deep understanding of ethical hacking and offensive security, I love linux, and linux and linux.
 
-
 <details>
   <summary>More about me</summary>
 
