@@ -7,7 +7,6 @@
 
 <img width="20%" align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWw4YXdoM3B0YjMzcmVmNmowOGppb3RsdHlwNTRpNnA4b292MnVsMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/B4dt6rXq6nABilHTYM/giphy.gif">
 
-
 <h2 align="left">
   Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
