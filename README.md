@@ -29,6 +29,10 @@ I'm **[`Swarnim`](https://www.linkedin.com/in/swarnimbandekar)**, a cybersecurit
 </details>
 <br>
 
+<div align="center">
+<a href="https://spotify.swarnimbandekar.in/now-playing?uid=b6d1c197e7" target="_blank"> <img src="https://spotify.swarnimbandekar.in/now-playing?uid=b6d1c197e7" alt="Spotify Now Playing" /> </a>
+</div>
+
 ---
 
 <h2 id="present_status"> Present Status </h3>
